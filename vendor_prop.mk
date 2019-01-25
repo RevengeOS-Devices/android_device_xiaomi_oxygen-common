@@ -203,9 +203,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
 PRODUCT_PROPERTY_OVERRIDES += \
  persist.timed.enable=true
 
-# Telephony
-Add persist.vendor.qti.pie.telephony=1
-
 # Tcp
 PRODUCT_PROPERTY_OVERRIDES += \
  net.tcp.2g_init_rwnd=10
