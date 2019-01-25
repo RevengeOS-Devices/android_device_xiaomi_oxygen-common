@@ -1,0 +1,14 @@
+[
+ {
+    "remote": "github",
+    "repository": "blackmiddow/kernel_xiaomi_oxygen",
+    "target_path": "kernel/xiaomi/msm8953",
+    "revision": "vol-1"
+ },
+ {
+    "remote": "github",
+    "repository": "blackmiddow/vendor_xiaomi_oxygen",
+    "target_path": "vendor/xiaomi",
+    "revision": "pie"
+ }
+]
